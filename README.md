@@ -11,3 +11,9 @@
 `streamlit run main.py`
 
 3.打开网页进行试用
+
+
+
+Hugging Face:https://huggingface.co/TenFate/ZDXD
+
+Github:https://github.com/TenFate/ZDXD
