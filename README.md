@@ -10,9 +10,11 @@
 
 `streamlit run main.py`
 
-3.打开网页进行试用
+3.打开网页进行试用（过程可能有些缓慢，请耐心等候）
 
 
+
+# 项目地址：
 
 Hugging Face:https://huggingface.co/TenFate/ZDXD
 
